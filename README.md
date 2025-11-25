@@ -22,7 +22,7 @@
 
 ### Launch MCP inspector (sandbox to play around):
 ```bash
-npx @modelcontextprotocol/inspector uv run src/tools.py
+npx @modelcontextprotocol/inspector uv run src/research_server.py
 ```
 
 
